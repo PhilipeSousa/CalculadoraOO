@@ -32,7 +32,7 @@ public class Principal {
 					String strOpcao = JOptionPane.showInputDialog("Deseja realizar outra operacao? (S/N");
 					opcao = (strOpcao.equalsIgnoreCase("Sim") ? true : false);
 					
-					// nova bra
+					// nova branch
 				} while (opcao);
 			}
 
